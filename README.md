@@ -1,4 +1,4 @@
-### Olá, Eu sou o Pedr Paulo 👋
+### Olá, Eu sou o Pedro Paulo 👋
 
 - 😄 Atualmene estou cursando Analise e desenvolvimento de sistemas.
 - 🌱 estudando logica de programação, e java. 
