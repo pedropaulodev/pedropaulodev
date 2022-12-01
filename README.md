@@ -1,13 +1,13 @@
 ### Olá, Eu sou o Pedr Paulo 👋
 
 - 😄 Atualmene estou cursando Analise e desenvolvimento de sistemas.
-- 🌱 estudando logica de programação, e java 
+- 🌱 estudando logica de programação, e java. 
 - 🔭 Estou a procura de oportunidades de trabalho. 
 
 <div align="center">
   <a href="https://github.com/pedropaulodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropaulodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaulodev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=pedropaulodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaulodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
