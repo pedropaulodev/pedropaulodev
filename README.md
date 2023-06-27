@@ -19,8 +19,8 @@
  <img align="center" alt="Icon MySQL" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="Icon Linux" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="center" alt="Icon AWS" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
- <img align="center" alt="Icon CSS" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
- <img align="center" alt="Icon HTML" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" /> 
+ <img align="center" alt="Icon Kotlin" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+ <img align="center" alt="Icon Android Studio" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> 
 </div>
 
  ##   
